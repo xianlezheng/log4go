@@ -1,5 +1,5 @@
 # log4go
-Very useful log package
+Very useful log package,this log4go support compress base on google orig log4go,the compress log package name like *.zip. 
 
 # Useage:
 
